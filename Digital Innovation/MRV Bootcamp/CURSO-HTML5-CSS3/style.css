@@ -1,5 +1,5 @@
 body{
-    background: #fcfcfc;
+    background:white;
     font-family: Verdana;
     max-width: 900px;
     margin: auto;
@@ -7,7 +7,7 @@ body{
 
 
 #title, .subtitle, .post_title {
-    color: #330e0e;
+    color: #e21313;
 }
 
 #title{
